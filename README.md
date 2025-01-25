@@ -33,7 +33,6 @@ Execute the compiled file:
 food_ordering_system.exe  # For Windows          
 Developed by  
 •  Arisha khan                   
-•  Aleena khan                        
-• Aiman akhbar                    
-• Sba shehzad                     
+•  Aleena khan                      • Aiman akbar                    
+• Sba shahzad                     
 • Hannia fatima
