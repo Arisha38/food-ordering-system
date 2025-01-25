@@ -35,5 +35,5 @@ Developed by
 •  Arisha khan                   
 •  Aleena khan                      
 • Aiman akbar                    
-• Sba shahzad                     
+• Saba shahzad                     
 • Hannia fatima
